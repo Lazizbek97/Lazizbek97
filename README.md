@@ -92,9 +92,7 @@
   </div>
 <p align="center">
 </a> &nbsp;&nbsp;
-<a href="https://twitter.com/Odam_bolasii?t=DIu0caI4DsRTIthgg1lJNg&s=09" target="_blank">
-  <img align="center" alt="Abdulloh Foziljonov| Twitter" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Twitter.svg" />
-</a> &nbsp;&nbsp;
+
 <a href="https://www.instagram.com/fayziyev.lazizbek" target="_blank">
   <img align="center" alt="Lazizbek Fayziev| Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
 </a> &nbsp;&nbsp;
@@ -139,6 +137,6 @@
 
 ------
 
-[Abdulloh_Foziljonov](https://github.com/lazizbek97)
+[Lazizbek Fayziev](https://github.com/lazizbek97)
 
 Last Edited on: 09/09/2021
