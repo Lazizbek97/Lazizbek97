@@ -4,58 +4,67 @@
 - 📫 How to reach me via email: laziz.fayziev@mail.ru. tel: +998993727053. telegram: lazizbek88
 
 ### 💻 Stack I Work With
+<p  align="center">
+
 <img src="https://img.shields.io/badge/Flutter-0078D4.svg?&style=for-the-badge&logo=flutter&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" height="25"/>
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="25"/>
+ 
+</p>
 
 <br>
 ### 💻 IDE
+<p  align="center">
 <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" height="25"/>
 <img src="ttps://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" height="25"/>
+  
+</p>
+
 
 <br>
 ### 💻 DataBase
-<img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" height="25"/>
+<p  align="center">
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" height="25"/>
+
+</p>
 
 <br>
 ### 💻 Social
-<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" height="25"/>
+<p  align="center">
+  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25"/>
+
+</p>
 
 <br>
 ### 💻 OS
-<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" height="25"/>
+<p  align="center">
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" height="25"/>
+
+</p>
 
 <br>
 ### 💻 Design
+<p  align="center">
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" height="25"/>
+  
+</p>
 <br>
 ### 💻 Other
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="25"/>
+<p  align="center">
+ <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" height="25"/>
 
-
-
-
-<p  align="center">
-
-  
-  
-  
-
-   
-  
-  
-  
+ 
 </p>
   
 <p  align="center">
