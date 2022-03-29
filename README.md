@@ -23,14 +23,12 @@
 </a> &nbsp;&nbsp;
 
 <a href="https://www.instagram.com/fayziyev.lazizbek" target="_blank">
-  <img align="center" alt="Lazizbek Fayziev| Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
+  <img align="center" alt="Lazizbek Fayziev| Medium" width="24px" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
 </a> &nbsp;&nbsp;
-<a href="laziz.fayziev@mail.ru" >
-  <img align="center" alt="Lazizbek| MailRu" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
+<a href="ibnshomurod@mail.ru" >
+  <img align="center" alt="Lazizbek| MailRu" width="26px" src="ibnshomurod@mail.ru" />
 </a> &nbsp;&nbsp;
-<a href="https://www.facebook.com/fayziyev.lazizbek">
-    <img align="center" alt="Lazizbek Fayziev| Facebook" width="24px" src="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Facebook_f_logo_%282021%29.svg/100px-Facebook_f_logo_%282021%29.svg.png" />
-</a> &nbsp;&nbsp;
+
 <p>
   
 <br>
