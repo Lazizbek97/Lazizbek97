@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Lazizbek97
 - 👀 I’m interested in learning languages, sport and off course Programming
 - 🌱 What I've learned so far: C, Python, Flutter and Dart, FireBase
-- 📫 How to reach me via email: laziz.fayziev@mail.ru. tel: +998993727053. telegram: lazizbek88
+- 📫 How to reach me via email: ibnshomurod@gmail.com tel: +998993727053. telegram: lazizbek88
 
 ### 💻 Stack I Work With
 <p  align="center">
